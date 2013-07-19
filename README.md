@@ -26,8 +26,8 @@ draw_circle(A)
 [xcdf ycdf] = cdf_rank(list,'on');
 
 [Digraph A]
-#edges = sum(sum(A));
-#indegs = sum(A)
-#outdegs = sum(A,2)
-#totaldegs = #indegs + #outdegs
+\#edges = sum(sum(A));
+\#indegs = sum(A)
+\#outdegs = sum(A,2)
+\#totaldegs = \#indegs + \#outdegs
 
