@@ -1,6 +1,6 @@
 NetX_matlab
 ===========
-* A: deterministic
+* A: deterministic
 * P: probabilistic
 * K: Kronecker core
 
